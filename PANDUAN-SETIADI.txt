@@ -1,0 +1,20 @@
+Instalasi :
+Ada 2 buah folder : Folder Files (.zip) + Database (.sql)
+1. Instal xampp (server) dan notepad++ (editor text)
+2. Simpan .zip di folder htdocs (pada xampp) 
+3. Ekstrak .zip menjadi folder biasa 
+4. Buka sysconfig.local.inc.php (dengan notepad++)
+5. Cari nomor 33,34,35 disysconfig.local.inc.php (DB_Name : etd, DB_USERNAME : etd, DB_PASSWORD : admin)
+6. Buat database 'etd' di localhost/phpmyadmin 
+7. Buat user atau privileges (Username : etd, Host : Local, Password : admin) + Check all di global privileges.
+8. Import Database (.sql) pada database 'etd'
+9. Buka di browser localhost/etd
+10. Selesai.
+
+Login : 
+Pustakawan = UN : admin PW : admin
+
+1. Ubah logo di etd-admin-admin_template-new_etd_admin-media-logo
+2. Ubah APA Citation di etd-template-new_etd-detail_template line 103
+
+

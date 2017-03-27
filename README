@@ -1,0 +1,17 @@
+//utama
+SENAYAN Library Management System (SLiMS) version 7 Codename Cendana
+SLiMS is free open source software for library resources management
+(such as books, journals, digital document and other library materials)
+and administration such as collection circulation, collection management,
+membership, stock taking and many other else.
+
+//sub
+Senayan Sistem Elektronik Tesis dan Disertasi disingkat SETIADI (GPL.V3). Merupakan suatu Distro dari SLiMS yang dapat dimanfaatkan khusus untuk manajemen Skripsi, Tesis/Disertasi (ETD) atau Karya Tulis Ilmiah. Memiliki beberapa penyesuaian untuk mendukung sistem ETD antara lain :
+1. Quick Search : Pencarian cepat berdasarkan Institusi (Institutions) yang menerbitkan ETD dan Pengarang (Author's) ETD.
+2. ETD Statistic : Total koleksi yang tersedia.
+3. Top Viewer ETDs : Daftar koleksi ETD yang paling banyak dicari.
+4. Most Downloaded ETDs : Daftar koleksi ETD yang paling banyak diunduh.
+5. APA Citation : Format sitasi sebuah koleksi berdasarkan gaya APA.
+
+SLiMS n SETIADI are licensed under GNU GPL version 3. Please read "GPL-3.0 License.txt"
+to learn more about GPL.
